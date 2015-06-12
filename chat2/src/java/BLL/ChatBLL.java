@@ -17,7 +17,7 @@ public class ChatBLL {
     private BD bd;
     
    public ChatBLL(){
-       bd = new BD("root","");
+       bd = new BD("root","root");
    }
    
    public int registrarUsuario(Usuario u){

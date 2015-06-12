@@ -11,17 +11,15 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        
+
     </head>
     <body>
-        <% 
-        
-        for(Mensaje m : new ChatBLL().verMensajes()){
-            out.println("<b>"+m.getUsuario()+":</b> "+ m.getMensaje()+"<br><hr>");
-        }
-
-%>
-<br><br>
-<div id="ultimo"></div>
+        <%
+            for (Mensaje m : new ChatBLL().verMensajes()) {
+                out.println("<b>" + m.getUsuario() + ":</b> " + m.getMensaje() + "<br><hr>");
+            }
+        %>
+        <br><br>
+        <div id="ultimo"></div>
     </body>
 </html>
