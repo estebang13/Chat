@@ -14,6 +14,7 @@
 <script type="text/javascript" src="js/jquery-ui-1.8.19.custom.min.js"></script>
 <script type="text/javascript" src="js/jquery.scrollTo.js"></script>
 <script type="text/javascript" src="js/funciones.js"></script>
+<link href="css/jquery-ui-1.8.19.custom.css" rel="stylesheet" type="text/css">
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <%
