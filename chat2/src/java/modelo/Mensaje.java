@@ -1,4 +1,4 @@
-package Entidades;
+package modelo;
 
 /*
  * To change this template, choose Tools | Templates

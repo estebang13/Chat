@@ -4,8 +4,8 @@
     Author     : gnome
 --%>
 
-<%@page import="Entidades.Usuario"%>
-<%@page import="BLL.ChatBLL"%>
+<%@page import="modelo.Usuario"%>
+<%@page import="modelo.ChatBLL"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

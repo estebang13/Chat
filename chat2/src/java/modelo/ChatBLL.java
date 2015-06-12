@@ -2,11 +2,11 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package BLL;
+package modelo;
 
-import DAL.BD;
-import Entidades.Mensaje;
-import Entidades.Usuario;
+import modelo.BD;
+import modelo.Mensaje;
+import modelo.Usuario;
 import java.util.ArrayList;
 
 /**

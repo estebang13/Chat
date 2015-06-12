@@ -5,8 +5,8 @@
  */
 package control;
 
-import BLL.ChatBLL;
-import Entidades.Usuario;
+import modelo.ChatBLL;
+import modelo.Usuario;
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.ServletException;
