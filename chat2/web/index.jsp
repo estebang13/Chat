@@ -13,7 +13,7 @@
         <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
         <script type="text/javascript" src="js/jquery.scrollTo.js"></script>
         <script type="text/javascript" src="js/funciones.js"></script>
-        <link href="style.css" rel="stylesheet" type="text/css">
+        <link href="chatStyle.css" rel="stylesheet" type="text/css">
     </head>
     <%
         Sesiones.comprobarUsuario(request.getSession().getAttribute("userId").toString());
