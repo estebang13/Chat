@@ -37,7 +37,7 @@ body{
 header{
 	height:110px;
 	width:100%;
-	background:no-repeat left;
+	background:url(img/asd.png)  no-repeat right ;
 	text-align:right;
 	font-size: 18px;
 	letter-spacing:3px;
