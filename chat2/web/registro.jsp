@@ -18,7 +18,7 @@
         <form id="form1" method="post" action="registro">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h3 class="panel-title">Ingresar</h3>
+                    <h3 class="panel-title">Registro</h3>
                 </div>
             </div>
             <div class="panel-body">
